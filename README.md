@@ -1,3 +1,2 @@
-# Project
+# Street View House Numbers Classifier
 
-This is my first project
